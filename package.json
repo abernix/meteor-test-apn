@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apn": "^1.7.8",
+    "babel-runtime": "^6.23.0",
+    "meteor-node-stubs": "~0.2.4"
+  }
+}
